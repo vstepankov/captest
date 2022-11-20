@@ -4,3 +4,4 @@ install:
 
 production:
 	echo 'it works'
+	pwd
